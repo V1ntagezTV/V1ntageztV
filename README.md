@@ -1,1 +1,3 @@
 ### .NET developer
+August 2021 - Ozon Technology .NET junior developer.
+...
